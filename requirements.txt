@@ -1,0 +1,6 @@
+ollama
+flask
+openai
+SpeechRecognition
+pyttsx3
+numpy
